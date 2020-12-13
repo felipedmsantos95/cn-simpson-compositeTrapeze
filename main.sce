@@ -1,5 +1,5 @@
 
-//Variáveis do Problema
+//Variaveis do Problema
 
 D1 = 0.2//Diâmetro na extremidade fixa, quando x = 1, D = ao mesmo valor
 D2 = 0.15//Diâmetro na outra extremidade, vamos alterar para os outros valores especificados no trabalho
