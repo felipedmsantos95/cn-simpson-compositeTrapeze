@@ -1,4 +1,3 @@
-//Trabalho Final da Disciplina Cálculo Numérico
 
 //Variáveis do Problema
 
